@@ -1,0 +1,2 @@
+relogio,48,15.0
+abumina,77,158.0
