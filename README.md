@@ -2,6 +2,7 @@
 
 esse programa usa bibliotecas swing java, cada 
 classe é reponsavel por cadastrar e salvar os dados em um arquivo txt, bem simples nao usa heranca ou polimorfismo
+🔧 o programa cadastra, edita e imprime os produtos ou seja a lista de produtos de um estoque
 
 ##  Documentação
 -[Documentação Git]()
